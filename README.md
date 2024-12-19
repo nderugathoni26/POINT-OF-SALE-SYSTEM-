@@ -161,8 +161,8 @@ Contact
 
 For inquiries or support, contact:
 Your Name
-Email: your-email@example.com
-GitHub: your-username
+Email: nderygathoni26@gmail.com
+GitHub: nderugathoni26
 
 
 
